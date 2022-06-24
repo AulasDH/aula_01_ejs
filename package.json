@@ -1,0 +1,28 @@
+{
+  "name": "aula_01_ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsunodajapa/aula_01_ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsunodajapa/aula_01_ejs/issues"
+  },
+  "homepage": "https://github.com/tsunodajapa/aula_01_ejs#readme",
+  "devDependencies": {
+    "nodemon": "^1.3.3"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
